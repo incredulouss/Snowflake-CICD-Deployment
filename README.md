@@ -1,1 +1,1 @@
-# App-Data-Platform-Repo
+# Snowflake-CICD-Deployment
