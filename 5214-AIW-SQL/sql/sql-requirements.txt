@@ -1,3 +1,0 @@
-script-avenger.sql
-script-avenger-insert.sql
-script-avenger-insert2.sql
